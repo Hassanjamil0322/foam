@@ -1,0 +1,35 @@
+body
+{
+ color:aliceblue;
+ margin:0;
+ 
+}
+form {
+    background-image:url(https://images6.alphacoders.com/607/thumb-1920-607771.jpg);
+    background-size: 100% 100%,cover;
+    margin-bottom:0px ;
+    margin-top: 0px;
+
+    
+
+}
+h3{
+    margin-top: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 5;
+    color: black;
+    font-weight: bold;
+}
+h1{
+    border-color: cyan;
+    box-sizing: content-box;
+    border-style: solid;
+    background-color:black;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing:60;
+    font-weight: 900;
+    text-decoration: dotted;
+    border: 0;
+    }
+    
